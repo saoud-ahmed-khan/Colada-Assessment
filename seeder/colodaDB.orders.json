@@ -1,0 +1,214 @@
+[{
+  "_id": {
+    "$oid": "671bca69f9ffe016eec68e72"
+  },
+  "user": "671bc974f9ffe016eec68e63",
+  "date": "2023-10-01T12:00:00Z",
+  "totalPrice": 299.99,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.935242,
+      40.73061
+    ]
+  },
+  "products": [
+    "671bc6c2f9ffe016eec68e59"
+  ]
+},
+{
+  "_id": {
+    "$oid": "671bca69f9ffe016eec68e73"
+  },
+  "user": "671bc974f9ffe016eec68e64",
+  "date": "2023-10-02T14:30:00Z",
+  "totalPrice": 199.99,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.935242,
+      40.73061
+    ]
+  },
+  "products": [
+    "671bc6c2f9ffe016eec68e5a"
+  ]
+},
+{
+  "_id": {
+    "$oid": "671bca69f9ffe016eec68e74"
+  },
+  "user": "671bc974f9ffe016eec68e65",
+  "date": "2023-10-03T09:45:00Z",
+  "totalPrice": 79.99,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.935242,
+      40.73061
+    ]
+  },
+  "products": [
+    "671bc6c2f9ffe016eec68e5b"
+  ]
+},
+{
+  "_id": {
+    "$oid": "671bca69f9ffe016eec68e75"
+  },
+  "user": "671bc974f9ffe016eec68e66",
+  "date": "2023-10-04T11:15:00Z",
+  "totalPrice": 499.99,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.935242,
+      40.73061
+    ]
+  },
+  "products": [
+    "671bc6c2f9ffe016eec68e5c"
+  ]
+},
+{
+  "_id": {
+    "$oid": "671bca69f9ffe016eec68e76"
+  },
+  "user": "671bc974f9ffe016eec68e67",
+  "date": "2023-10-05T10:00:00Z",
+  "totalPrice": 29.99,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.935242,
+      40.73061
+    ]
+  },
+  "products": [
+    "671bc6c2f9ffe016eec68e5d"
+  ]
+},
+{
+  "_id": {
+    "$oid": "671bcc0462abb0eb5e86b01d"
+  },
+  "user": "671bc974f9ffe016eec68e63",
+  "date": {
+    "$date": "2023-10-01T12:00:00.000Z"
+  },
+  "totalPrice": 299.99,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.935242,
+      40.73061
+    ]
+  },
+  "products": [
+    "671bc6c2f9ffe016eec68e59"
+  ]
+},
+{
+  "_id": {
+    "$oid": "671bcc0462abb0eb5e86b01e"
+  },
+  "user": "671bc974f9ffe016eec68e64",
+  "date": {
+    "$date": "2023-10-02T14:30:00.000Z"
+  },
+  "totalPrice": 199.99,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.935242,
+      40.73061
+    ]
+  },
+  "products": [
+    "671bc6c2f9ffe016eec68e5a"
+  ]
+},
+{
+  "_id": {
+    "$oid": "671bcc0462abb0eb5e86b01f"
+  },
+  "user": "671bc974f9ffe016eec68e65",
+  "date": {
+    "$date": "2023-10-03T09:45:00.000Z"
+  },
+  "totalPrice": 79.99,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.935242,
+      40.73061
+    ]
+  },
+  "products": [
+    "671bc6c2f9ffe016eec68e5b"
+  ]
+},
+{
+  "_id": {
+    "$oid": "671bcc0462abb0eb5e86b020"
+  },
+  "user": "671bc974f9ffe016eec68e66",
+  "date": {
+    "$date": "2023-10-04T11:15:00.000Z"
+  },
+  "totalPrice": 499.99,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.935242,
+      40.73061
+    ]
+  },
+  "products": [
+    "671bc6c2f9ffe016eec68e5c"
+  ]
+},
+{
+  "_id": {
+    "$oid": "671bcc0462abb0eb5e86b021"
+  },
+  "user": "671bc974f9ffe016eec68e67",
+  "date": {
+    "$date": "2023-10-05T10:00:00.000Z"
+  },
+  "totalPrice": 29.99,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.935242,
+      40.73061
+    ]
+  },
+  "products": [
+    "671bc6c2f9ffe016eec68e5d"
+  ]
+},
+{
+  "_id": {
+    "$oid": "671bccd762abb0eb5e86b022"
+  },
+  "user": {
+    "$oid": "671bc974f9ffe016eec68e63"
+  },
+  "date": {
+    "$date": "2024-10-10T16:52:38.995Z"
+  },
+  "totalPrice": 150,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.935242,
+      40.73061
+    ]
+  },
+  "products": [
+    {
+      "$oid": "671bc6c2f9ffe016eec68e59"
+    }
+  ]
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "671bc6c2f9ffe016eec68e59"
+  },
+  "name": "Product A",
+  "category": "Electronics",
+  "price": 299.99
+},
+{
+  "_id": {
+    "$oid": "671bc6c2f9ffe016eec68e5a"
+  },
+  "name": "Product B",
+  "category": "Electronics",
+  "price": 199.99
+},
+{
+  "_id": {
+    "$oid": "671bc6c2f9ffe016eec68e5b"
+  },
+  "name": "Product C",
+  "category": "Home Appliances",
+  "price": 79.99
+},
+{
+  "_id": {
+    "$oid": "671bc6c2f9ffe016eec68e5c"
+  },
+  "name": "Product D",
+  "category": "Furniture",
+  "price": 499.99
+},
+{
+  "_id": {
+    "$oid": "671bc6c2f9ffe016eec68e5d"
+  },
+  "name": "Product E",
+  "category": "Clothing",
+  "price": 29.99
+}]

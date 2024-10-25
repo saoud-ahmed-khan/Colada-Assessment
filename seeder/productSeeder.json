@@ -1,0 +1,12 @@
+[
+    { "_id": "60d21b4667d0d8992e610c88", "name": "Widget A", "category": "Gadgets", "price": 25.99 },
+    { "_id": "60d21b4667d0d8992e610c89", "name": "Widget B", "category": "Gadgets", "price": 15.99 },
+    { "_id": "60d21b4667d0d8992e610c8a", "name": "Gadget C", "category": "Gadgets", "price": 35.00 },
+    { "_id": "60d21b4667d0d8992e610c8b", "name": "Gadget D", "category": "Electronics", "price": 45.50 },
+    { "_id": "60d21b4667d0d8992e610c8c", "name": "Gadget E", "category": "Electronics", "price": 55.00 },
+    { "_id": "60d21b4667d0d8992e610c8d", "name": "Gadget F", "category": "Toys", "price": 20.00 },
+    { "_id": "60d21b4667d0d8992e610c8e", "name": "Gadget G", "category": "Toys", "price": 30.00 },
+    { "_id": "60d21b4667d0d8992e610c8f", "name": "Gadget H", "category": "Home", "price": 60.00 },
+    { "_id": "60d21b4667d0d8992e610c90", "name": "Gadget I", "category": "Home", "price": 70.00 },
+    { "_id": "60d21b4667d0d8992e610c91", "name": "Gadget J", "category": "Sports", "price": 80.00 }
+]
